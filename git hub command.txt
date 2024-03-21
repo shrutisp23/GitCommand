@@ -1,0 +1,11 @@
+1. create repository 
+2. copy code
+3. folder on desktop
+4. git upload folder  me open cmd 
+5. git init (first enter)
+6.  git clone paste code
+7. readme  project copy 
+8. open cmd 
+9. git add .
+10. git commit -am"date/ done/ message "
+11. git push 
